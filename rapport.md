@@ -6,7 +6,8 @@
 
 2. Etape 2 : J’ai ensuite ouvert le fichier avec DataGrip pour pouvoir visualiser les informations recueillies par la BD. On peut observer ici les noms d’utilisateur ainsi que le hachage du NAS et du mot de passe.<img width="975" height="607" alt="image" src="https://github.com/user-attachments/assets/0b11449e-bc04-40eb-b4a9-ca2d7e9af429" />
 
-3. etc.
+3. Étape 3 : Pour terminer, j’ai utilisé le site web CrackStation pour déhacher les caractères, ce qui permet d’obtenir le mot de passe. Comme on peut le voir ici, le mot de passe du compte nommé “Justin Trudeau” est Passw0rd1!.<img width="975" height="370" alt="image" src="https://github.com/user-attachments/assets/28f97f28-1384-41bc-b2eb-9f566fd752a3" />
+
 
 ### Correctif implanté
 
